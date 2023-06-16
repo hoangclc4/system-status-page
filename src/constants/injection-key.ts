@@ -1,0 +1,3 @@
+export const INJECTION_KEY = {
+  IS_CSS_SELECTOR_EXT: 'IS_CSS_SELECTOR_EXT'
+}
